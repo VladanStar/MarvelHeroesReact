@@ -1,0 +1,11 @@
+.width{
+    width: 100%;
+    background-color: #151515;
+    margin-bottom: 20px;
+}
+.text{
+    color: #d9534f;
+    text-align: center;
+    width: 100%;
+    font-weight: bold;
+}

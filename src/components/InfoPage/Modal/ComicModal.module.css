@@ -1,0 +1,22 @@
+.width{
+    width: 100%;
+}
+.marginTop{
+    margin-top: 10px;
+}
+.marginBottom{
+    margin-bottom: 0px;
+}
+
+.bold{
+    font-weight: bolder;
+}
+
+@media only screen and (max-width: 992px) {
+    .width{
+        width: 70%;
+    }
+    .textCenter{
+        text-align: center;
+    }
+}

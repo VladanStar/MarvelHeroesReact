@@ -1,0 +1,34 @@
+.border{
+    padding: 20px 0px;
+    background-color: #151515;
+    color: white;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 7px 0 rgba(0,0,0,.14),
+    0 10px 10px -2px rgba(0,0,0,.12),
+    0 4px 5px 0 rgba(0,0,0,.2);
+}
+
+.center{
+    text-align: center;
+}
+
+.paddingTop{
+    padding-top: 15px;
+}
+
+.zoomIn{
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 1px;
+    bottom: 0px;
+    height: 100%;
+    background-color: #151515;
+    opacity: 0.5;
+}
+
+.image:hover .zoomIn{
+    display: block !important;
+    cursor: pointer;
+}

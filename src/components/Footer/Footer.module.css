@@ -1,0 +1,11 @@
+.name{
+    font-size: 18px;
+    color: white;
+}
+.footer{
+    position: relative !important;
+    bottom: 0 !important;
+    width: 100% !important;
+    background-color: #151515;
+    margin-top: 15px;
+}
