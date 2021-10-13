@@ -8,4 +8,4 @@ Demo: [Marvel Heroes](https://nenaddimitrijevic89.github.io/Marvel-Heroes/)
 
 * Languages: HTML5, CSS3, JavaScript (ES6)
 * Libraries: React, Bootstrap
-* Package Manager: npm
+* Package Manager: npm# MarvelHeroesReact
